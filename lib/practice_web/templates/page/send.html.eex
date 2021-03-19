@@ -1,0 +1,8 @@
+<div class="row">
+  <div class="column">
+    <p><%= link "← go back", to: "/" %></p>
+    <h2>Sent Email</h2>
+
+    <p>status = <%= @y %></p>
+  </div>
+</div>
