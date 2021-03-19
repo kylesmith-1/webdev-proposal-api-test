@@ -1,3 +1,5 @@
+# Notes
+Based in part from https://github.com/kylesmith-1/cs4550-hw04 my HW04 Code for structure
 # Practice
 
 To start your Phoenix server:
